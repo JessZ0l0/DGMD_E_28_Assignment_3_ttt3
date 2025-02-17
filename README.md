@@ -6,7 +6,7 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The gam
 ## Features
 - **Dynamic Board Generation**: The game board is created using JavaScript when the page loads.
 - **Random Starting Player**: Either "X" or "O" is randomly selected to start.
-- **Turn Tracking**: The current player's turn is displayed via <div> and updates after each move.
+- **Turn Tracking**: The current player's turn is displayed via `<div>` and updates after each move.
 - **Click Event Handling**: Players can click on squares to place their mark, and the game prevents overwriting an already selected square.
 - **Basic UI Styling**: CSS is used to style the board, squares, and turn indicator.
 
@@ -36,5 +36,6 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The gam
 Simply open `index.html` in any modern web browser to play the game.
 
 ## Author
-[Your Name]
+Jessica Zolotarevsky
+Email: jez231@g.harvard.edu
 
