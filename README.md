@@ -3,7 +3,7 @@
 ## Overview
 This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game dynamically generates a 3x3 board and allows two players to take turns selecting squares. The starting player is randomly selected, and, from there, turns alternate between "X" and "O". The project is part of an assignment for learning DOM manipulation and event handling in JavaScript.
 
-##Link
+## Link
 https://jessz0l0.github.io/DGMD_E_28_Assignment_3_ttt3/
 
 ## Features
